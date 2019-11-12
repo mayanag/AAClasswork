@@ -1,0 +1,22 @@
+h1 {
+        text-align: center;
+        font-family: Arial, sans-serif;
+        font-size: 38px;
+        color: #bd5156;
+        margin-bottom: 5px;
+        text-decoration: underline;
+    }
+
+h2 {
+        text-align: center;
+        font-family: Arial, sans-serif;
+        font-size: 32px;
+        color: #4b657e;
+        margin-bottom: 5px;
+        text-decoration: underline;
+    }
+
+li:last-child {
+    color:green;
+    background-color: bisque;
+}
